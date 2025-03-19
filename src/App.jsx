@@ -1,5 +1,4 @@
-import React from 'react'
-import Navbar from './components/navbar'
+import Navbar from './components/Navbar'
 import Productsection from './components/Productsection'
 import Herosection from './components/herosection'
 import Header from './components/header'
